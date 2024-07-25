@@ -1,4 +1,4 @@
-# Mumbai-Housing-Detector
+# Geospatial Explorer
 ## Description
 - Built an interactive user interface using React and Leaflet that allows the user to enter their monthly budget and
 **amenity proximity preferences** across Mumbai
